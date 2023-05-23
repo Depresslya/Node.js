@@ -1,0 +1,23 @@
+{
+  "name": "lab_3",
+  "version": "1.0.0",
+  "description": "Напишіть функцію, яка приймає будь-який тип масиву та асинхронний колбек, який викликається для кожного елемента масиву послідовно. Результатом виклику має бути масив результатів колбеку. Усі типи мають застосовуватися автоматично (функція шаблону).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "nodemon": "^2.0.22",
+    "rimraf": "^5.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "systeminformation": "^5.17.12"
+  }
+}
